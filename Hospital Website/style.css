@@ -1,0 +1,20 @@
+/* Variables */
+:root {
+  --primary-blue-clr: #23a6f0;
+  --secondary-blue-clr: #8ec2f2;
+  --background-color: #fafafa;
+  --white-clr: #fff;
+  --black-clr: #262c43;
+  --paragraph-text-clr: #b5b5b5;
+}
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
